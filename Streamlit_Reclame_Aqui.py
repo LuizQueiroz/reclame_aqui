@@ -1,7 +1,6 @@
 import pandas as pd
 import plotly.express as px
 import streamlit as st
-import datetime
 
 ib = pd.read_csv('RECLAMEAQUI_IBYTE.csv')
 hp = pd.read_csv('RECLAMEAQUI_HAPVIDA.csv')
