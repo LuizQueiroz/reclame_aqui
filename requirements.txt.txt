@@ -1,4 +1,5 @@
+altair
 pandas
-plotly
 streamlit
+plotly
 datetime
